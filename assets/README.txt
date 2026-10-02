@@ -1,0 +1,1 @@
+Portfolio image assets are referenced by the website. Replace these placeholders with the selected portfolio photos before publishing if they are not already present.
